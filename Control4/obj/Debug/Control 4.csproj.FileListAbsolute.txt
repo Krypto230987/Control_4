@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Control 4\Control 4\bin\Debug\Control 4.exe.config
+C:\Users\User\source\repos\Control 4\Control 4\bin\Debug\Control 4.exe
+C:\Users\User\source\repos\Control 4\Control 4\bin\Debug\Control 4.pdb
+C:\Users\User\source\repos\Control 4\Control 4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Control 4\Control 4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Control 4\Control 4\obj\Debug\Control 4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Control 4\Control 4\obj\Debug\Control 4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Control 4\Control 4\obj\Debug\Control 4.csproj.CopyComplete
+C:\Users\User\source\repos\Control 4\Control 4\obj\Debug\Control 4.exe
+C:\Users\User\source\repos\Control 4\Control 4\obj\Debug\Control 4.pdb
